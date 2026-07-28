@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cyber Quiz</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Cyber Academy</h1>
+</header>
+
+<section class="hero">
+
+<h2>Cybersecurity Quiz</h2>
+
+<p id="question">
+Which protocol is commonly used for secure web browsing?
+</p>
+
+<button onclick="correct()">HTTPS</button>
+<button onclick="wrong()">HTTP</button>
+<button onclick="wrong()">FTP</button>
+<button onclick="wrong()">SMTP</button>
+
+<h2 id="result"></h2>
+
+</section>
+
+<script>
+
+function correct(){
+
+document.getElementById("result").innerHTML="✅ Correct!";
+
+}
+
+function wrong(){
+
+document.getElementById("result").innerHTML="❌ Try Again";
+
+}
+
+</script>
+
+</body>
+</html>
