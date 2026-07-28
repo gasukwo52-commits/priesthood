@@ -1,4 +1,24 @@
-# Priesthood - Ethical Hacking & Security Learning
+# Priesthood Website
+
+A modern multi-page website built with HTML, CSS, and JavaScript.
+
+## Pages
+
+- Home
+- About
+- Contact
+
+Created by Godwin Asukwo Okon.# Priesthood Website
+
+A modern multi-page website built with HTML, CSS, and JavaScript.
+
+## Pages
+
+- Home
+- About
+- Contact
+
+Created by Godwin Asukwo Okon.# Priesthood - Ethical Hacking & Security Learning
 
 Let learn in a big way family, in a global world put letters together/numbers to create imaginable things through ethical hacking and cybersecurity.
 
